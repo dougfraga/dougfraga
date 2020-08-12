@@ -1,4 +1,8 @@
-### DEV in production 👋
+### Almost a Ph.D. in physical oceanography who discovered a passion for programming when developing Python scripts for data analysis. 🤔
+
+🌱 I’m currently learning about the fascinating world of web development!
+
+
 
 <!--
 **dougfraga/dougfraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
