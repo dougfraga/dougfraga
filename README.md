@@ -1,6 +1,6 @@
-### Almost a Ph.D. in physical oceanography who discovered a passion for programming when developing Python scripts for data analysis. 🤔
+### Ph.D. in physical oceanography who discovered a passion for programming when developing Python scripts for data analysis. 🤔
 
-🌱 I’m currently learning about the fascinating world of web development!
+🌱 I’m currently learning about the fascinating world of machine learning!
 
 
 
